@@ -1,0 +1,98 @@
+[
+    {
+      "recipe_id": 1,
+      "recipe_image": "https://i.ibb.co.com/D8rDv6y/pexels-pascal-claivaz-66964-410648.jpg",
+      "recipe_name": "Spicy Basil Chicken",
+      "short_description": "A quick and flavorful Thai-inspired dish with chicken and basil.",
+      "ingredients": [
+        "550 g chicken",
+        "120 ml soy sauce",
+        "200 g basil leaf",
+        "400 g mushroom",
+        "3 cloves garlic",
+        "2 red chilies"
+      ],
+      "preparing_time": "30 min",
+      "calories": "320 calories"
+    },
+    {
+      "recipe_id": 2,
+      "recipe_image": "https://i.ibb.co.com/nr3WFwX/pexels-catscoming-406152.jpg",
+      "recipe_name": "Creamy Mushroom Pasta",
+      "short_description": "Rich and creamy pasta with sautéed mushrooms and parmesan.",
+      "ingredients": [
+        "200 g pasta",
+        "300 g mushroom",
+        "200 ml heavy cream",
+        "50 g parmesan cheese",
+        "2 tbsp olive oil",
+        "2 cloves garlic"
+      ],
+      "preparing_time": "25 min",
+      "calories": "450 calories"
+    },
+    {
+      "recipe_id": 3,
+      "recipe_image": "https://i.ibb.co.com/JQ6xd7j/pexels-abhinavcoca-291528.jpg",
+      "recipe_name": "Vegetable Stir-fry",
+      "short_description": "A healthy mix of colorful vegetables with a savory stir-fry sauce.",
+      "ingredients": [
+        "100 g broccoli",
+        "100 g bell peppers",
+        "100 g carrot",
+        "2 tbsp soy sauce",
+        "1 tbsp sesame oil",
+        "1 clove garlic"
+      ],
+      "preparing_time": "20 min",
+      "calories": "200 calories"
+    },
+    {
+      "recipe_id": 4,
+      "recipe_image": "https://i.ibb.co.com/kKvPj8j/pexels-sydney-troxell-223521-718742.jpg",
+      "recipe_name": "Grilled Lemon Salmon",
+      "short_description": "Delicious grilled salmon seasoned with lemon and herbs.",
+      "ingredients": [
+        "200 g salmon fillet",
+        "1 lemon",
+        "1 tbsp olive oil",
+        "1 tsp dill",
+        "1 tsp salt",
+        "1 tsp black pepper"
+      ],
+      "preparing_time": "15 min",
+      "calories": "350 calories"
+    },
+    {
+      "recipe_id": 5,
+      "recipe_image": "https://i.ibb.co.com/ZmJv7Cx/pexels-fotios-photos-1279330.jpg",
+      "recipe_name": "Classic Caesar Salad",
+      "short_description": "Crisp romaine lettuce with Caesar dressing and croutons.",
+      "ingredients": [
+        "200 g romaine lettuce",
+        "50 g croutons",
+        "30 g parmesan cheese",
+        "50 ml Caesar dressing",
+        "1 clove garlic",
+        "1 tsp lemon juice"
+      ],
+      "preparing_time": "10 min",
+      "calories": "220 calories"
+    },
+    {
+      "recipe_id": 6,
+      "recipe_image": "https://i.ibb.co.com/PwMYFMB/pexels-ash-craig-122861-376464.jpg",
+      "recipe_name": "Chocolate Lava Cake",
+      "short_description": "A decadent dessert with a molten chocolate center.",
+      "ingredients": [
+        "100 g dark chocolate",
+        "50 g butter",
+        "50 g sugar",
+        "2 eggs",
+        "30 g flour",
+        "1 tsp vanilla extract"
+      ],
+      "preparing_time": "35 min",
+      "calories": "400 calories"
+    }
+  ]
