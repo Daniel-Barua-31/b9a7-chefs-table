@@ -1,24 +1,23 @@
 import PropTypes from 'prop-types'; // ES6
 import Recipe from '../Recipe/Recipe';
 
-const Recipes = ({recipes}) => {
-    console.log(recipes);
+const Recipes = ({recipes,handleCookList}) => {
+    // console.log(recipes);
     return (
-        <div>
-              <h1>Recipes : {recipes.length}</h1>          
-              <div>
+        <div className='md:w-2/3'>        
+              <div className=' grid grid-cols-2 gap-6'>
                   {
-                    recipes.map(recipe=> <Recipe key={recipe.recipe_id} recipe={recipe}></Recipe>)
+                    recipes.map(recipe=> <Recipe key={recipe.recipe_id} recipe={recipe} handleCookList={handleCookList} ></Recipe>)
                   }
               </div>
-        
         </div>
     );
 };
 
 
 Recipes.propTypes = {
-    recipes: PropTypes.array.isRequired
+    recipes: PropTypes.array.isRequired,
+    handleCookList: PropTypes.func.isRequired,
 }
 
 

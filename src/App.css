@@ -1,0 +1,15 @@
+
+
+table {
+    width: 400px;
+    height: 200px;
+}
+
+th {
+    border-bottom: 1px solid black;
+}
+
+td {
+    text-align: center;
+    background-color: rgb(233, 233, 233);
+}

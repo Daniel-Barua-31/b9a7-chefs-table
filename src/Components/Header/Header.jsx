@@ -18,7 +18,7 @@ const Header = () => {
             </div>
             <div className="flex space-x-4">
                 <input className="bg-slate-200 rounded-2xl px-6 py-3" type="text" placeholder="Search" /> 
-                <img className="w-8 rounded-2xl" src={Profile} alt="profile" />
+                <img className="w-8 rounded-xl" src={Profile} alt="profile" />
             </div>
         </div>
     );
